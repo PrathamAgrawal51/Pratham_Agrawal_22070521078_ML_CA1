@@ -5,7 +5,7 @@
 ## Class: 7th C
 ## Subject: Machine Learning
 
-![World Heatmap](Visualization/world_heatmap.png)
+![World Heatmap](https://github.com/PrathamAgrawal51/Pratham_Agrawal_22070521078_ML_CA1/blob/2137cf15ae05aa94a750c7cea421f29fac15f9df/Visualizations/world_heatmap.png)
 
 ## 📖 Project Overview
 
