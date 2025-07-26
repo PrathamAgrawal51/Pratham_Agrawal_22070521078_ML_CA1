@@ -72,8 +72,8 @@ Ensure you have Python 3 installed on your system.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/PrathamAgrawal51/Pratham_Agrawal_22070521078_ML_CA1.git
+    cd Pratham_Agrawal_22070521078_ML_CA1
     ```
 
 2.  **Install the required libraries:**
