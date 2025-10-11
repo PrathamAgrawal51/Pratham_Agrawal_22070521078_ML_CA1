@@ -4,6 +4,7 @@
 ## PRN: 22070521078
 ## Class: 7th C
 ## Subject: Machine Learning
+## Dashboard Link: https://pratham-covidexcessdeathsdashboard.streamlit.app/
 
 ![World Heatmap](https://github.com/PrathamAgrawal51/Pratham_Agrawal_22070521078_ML_CA1/blob/2137cf15ae05aa94a750c7cea421f29fac15f9df/Visualizations/world_heatmap.png)
 
@@ -21,7 +22,8 @@ This repository contains a detailed Exploratory Data Analysis (EDA) of the **Glo
 - **Demographic Insights**: Detailed analysis of mortality impact based on age and sex.
 - **Comparative Analysis**: Year-over-year comparisons and relational plots to understand the pandemic's evolution.
 - **Detailed Reporting**: A full EDA report is included, summarizing all findings.
-
+- **Model Implementation**: Several Machine Learning Models were implemented and the best models were intergrated into a dashboard.
+- **Interactive Dashboard**: An interactive dashboard was made in order to visualize the dataset, compare between different geographical regions, view model results and predict future pandemic vulnerabilities.
 ---
 
 ## 📊 Dataset
