@@ -5,6 +5,8 @@
 ## Class: 7th C
 ## Subject: Machine Learning
 ## Dashboard Link: https://pratham-covidexcessdeathsdashboard.streamlit.app/
+## ML Implementation File: https://colab.research.google.com/drive/1SE-ZZRGWk_U35qMwtGVCjflvDLu2ZdJn?usp=sharing
+## EDA Implementation File: https://drive.google.com/file/d/1Q5FSiSdGRWDyey3t56inZWorDnv6hIMu/view?usp=sharing
 
 ![World Heatmap](https://github.com/PrathamAgrawal51/Pratham_Agrawal_22070521078_ML_CA1/blob/2137cf15ae05aa94a750c7cea421f29fac15f9df/Visualizations/world_heatmap.png)
 
